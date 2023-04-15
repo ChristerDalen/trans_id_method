@@ -7,4 +7,4 @@ Jutan Rodriguez 1984
 Lee 1989
 Mamat & Flemming 1995
 
-Which may be used to tune PI/PID controller if combined with SIMC, cohen-coon, ziegler etc..
+Which may be used to tune PI/PID controller if combined with traditional methods SIMC, cohen-coon, ziegler etc..
