@@ -1,10 +1,12 @@
 # trans_id_method
 
-Some "old school" model identificafion (foptd, soptd) methods:
+Some MATLAB functions are given for "old school" transient model identificafion (i.e. FOPTD, SOPTD based) methods:
 
-Yuwana Seborg 1982
-Jutan Rodriguez 1984
-Lee 1989
-Mamat & Flemming 1995
+Yuwana Seborg (YS) (1982)
+Jutan Rodriguez (JR) (1984)
+Lee (1989)
+Mamat & Flemming (MF) (1995)
+Chen ()
+FSL ()
 
-Which may be used to tune PI/PID controller if combined with traditional methods SIMC, cohen-coon, ziegler etc..
+which may be used to tune PI/PID controller if combined with traditional methods SIMC, Cohen-Coon, Tyreus-Luyben, Ziegler-Nichols etc.
