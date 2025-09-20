@@ -10,3 +10,7 @@ Chen ()
 FSL ()
 
 which may be used to tune PI/PID controller if combined with traditional methods SIMC, Cohen-Coon, Tyreus-Luyben, Ziegler-Nichols etc.
+
+The MATLAB files were implemented in connection with the following paper,
+https://www.mic-journal.no/PDF/2016/MIC-2016-4-2.pdf
+
